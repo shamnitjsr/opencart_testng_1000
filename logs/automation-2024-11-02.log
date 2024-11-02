@@ -1,0 +1,383 @@
+21:10:39.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.580 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.582 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.617 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.700 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.749 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:10:39.802 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:10:39.805 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:10:39.894 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:10:41.338 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:10:41.352 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:10:52.210 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:10:52.210 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:11:03.108 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:11:03.108 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:11:13.978 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:11:13.988 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:12:21.248 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml"
+ 21:12:21.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml
+
+ 21:12:25.224 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:25.822 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.824 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:25.875 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.877 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:25.913 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.914 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.916 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:25.951 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.952 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.954 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:25.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:25.986 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:25.987 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.023 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.056 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.058 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.060 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.096 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.098 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.100 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.137 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.138 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.139 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.167 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.169 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.172 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.199 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.200 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.227 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.229 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.289 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.291 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.292 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.322 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:12:26.358 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:12:26.359 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:12:26.408 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:12:27.788 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:12:27.802 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:12:38.730 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:12:38.746 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:12:49.943 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:12:49.958 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:13:00.926 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:13:00.926 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:13.205 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml"
+ 21:14:13.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml
+
+ 21:14:18.007 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.014 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.448 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.479 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.481 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.517 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.550 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.576 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.577 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.578 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.639 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.671 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.672 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.704 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.706 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.759 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.844 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.884 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.934 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:18.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:14:18.986 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:14:18.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:14:19.069 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:20.432 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:14:20.443 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:31.283 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:14:31.299 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:42.114 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:14:42.114 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:53.006 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:14:53.006 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:14:54.255 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:15:23.548 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml"
+ 21:15:23.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1000\master.xml
+
+ 21:15:27.293 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ********
+ 21:15:27.392 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on MyAccount Link ********
+ 21:15:27.653 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on Register Link ********
+ 21:15:27.666 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ********
+ 21:15:28.734 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 21:15:28.786 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 21:15:31.731 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+ 21:15:32.891 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+ 21:15:35.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:35.806 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:35.809 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.528 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.569 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.687 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.722 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.752 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.783 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.784 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.816 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.817 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.847 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.878 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.880 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.910 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.911 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.939 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.940 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.965 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:36.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:36.991 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:36.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:37.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:15:37.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:15:37.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:15:37.052 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:15:38.541 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:15:38.544 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:15:49.327 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:15:49.336 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:16:00.186 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:16:00.186 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:16:11.065 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:16:11.065 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:16:12.367 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:16:50.647 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shamb\eclipse-workspace\opencart_testng_1000\crossbrowsertesting.xml"
+ 21:16:51.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shamb\eclipse-workspace\opencart_testng_1000\crossbrowsertesting.xml
+
+ 21:16:55.796 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ********
+ 21:16:55.864 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ********
+ 21:16:56.227 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on MyAccount Link ********
+ 21:16:57.149 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on MyAccount Link ********
+ 21:16:57.177 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on Register Link ********
+ 21:16:57.181 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ********
+ 21:16:57.760 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on Register Link ********
+ 21:16:57.762 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ********
+ 21:16:59.471 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 21:16:59.611 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 21:17:00.085 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 21:17:00.138 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 21:17:00.297 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Starting TC001_AccountRegistrationTest ********
+ 21:17:00.610 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on MyAccount Link ********
+ 21:17:00.999 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Clicked on Register Link ********
+ 21:17:00.999 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Providing Customer Details ********
+ 21:17:02.530 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Validating Expected message ********
+ 21:17:02.593 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC001_AccountRegistrationTest ********
+ 21:17:05.283 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+ 21:17:06.227 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+ 21:17:07.685 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+ 21:17:08.454 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+ 21:17:12.766 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:12.775 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:12.780 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.243 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.246 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.249 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.332 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.334 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.337 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.434 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.437 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.448 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.539 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.541 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.544 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.598 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.602 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.604 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.713 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.719 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.731 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.867 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.872 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.877 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:14.970 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:14.979 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:14.995 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.002 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.003 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.006 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.159 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.161 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.164 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.169 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.183 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.187 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.249 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.251 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.254 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.281 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.291 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.293 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.379 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.382 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.382 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.399 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.405 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.470 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.548 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.550 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.555 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.576 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.578 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.580 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.613 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.615 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.617 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.649 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.657 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.670 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.697 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.698 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.700 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.744 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.745 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.747 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.814 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.816 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.843 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.867 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.874 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.878 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.914 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:15.916 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:15.918 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:15.974 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:17:16.000 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.003 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.005 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.158 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.162 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.163 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.224 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.225 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.227 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.326 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.328 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.329 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.388 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.389 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.391 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.433 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.435 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.437 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.482 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.485 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.487 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.531 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.538 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.540 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.592 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:16.593 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:16.595 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:16.667 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:17:18.244 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest ******
+ 21:17:21.057 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest ******
+ 21:17:21.567 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:17:21.573 [TestNG-tests-2] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:17:21.746 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+ 21:17:21.753 [TestNG-tests-1] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+ 21:17:31.380 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:31.383 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:31.383 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:31.424 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:31.432 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:31.432 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:31.465 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:31.465 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:31.465 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:31.505 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:31.505 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:31.513 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 21:17:31.553 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+ 21:17:31.553 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+ 21:17:31.553 [TestNG-tests-3] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+ 

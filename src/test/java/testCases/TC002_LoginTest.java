@@ -11,7 +11,7 @@ import testBase.BaseClass;
 public class TC002_LoginTest extends BaseClass {
 
 	@Test
-	public void verify_Login_() {
+	public void verify_Login() {
 
 		logger.info("****** Starting TC_002_LoginTest ******");
 

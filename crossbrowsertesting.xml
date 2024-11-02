@@ -8,8 +8,9 @@
 
 		<classes>
 			<class name="testBase.BaseClass" />
-			<class name="testCases.TC001_AccountRegistrationTest" />
+			<class name="testCases.TC001_AccountRegistrationTest" /> 
 			<class name="testCases.TC002_LoginTest" />
+			<class name="testCases.TC003_LoginDDT" />
 		</classes>
 	</test> <!--
 	Test -->
@@ -21,8 +22,9 @@
 
 		<classes>
 			<class name="testBase.BaseClass" />
-			<class name="testCases.TC001_AccountRegistrationTest" />
+			<class name="testCases.TC001_AccountRegistrationTest" /> 
 			<class name="testCases.TC002_LoginTest" />
+			<class name="testCases.TC003_LoginDDT" />
 		</classes>
 	</test>
 	
@@ -33,8 +35,9 @@
 
 		<classes>
 			<class name="testBase.BaseClass" />
-			<class name="testCases.TC001_AccountRegistrationTest" />
+			<class name="testCases.TC001_AccountRegistrationTest" /> 
 			<class name="testCases.TC002_LoginTest" />
+			<class name="testCases.TC003_LoginDDT" />
 		</classes>
 	</test>
 </suite> <!--
