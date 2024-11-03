@@ -1,5 +1,4 @@
-package day33;
-
+package com.script;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
@@ -7,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class DynamicPaginationTable {
+public class P_14_DynamicPaginationTable {
 
 	public static void main(String[] args) throws InterruptedException {
 		
@@ -26,16 +25,20 @@ public class DynamicPaginationTable {
 		password.clear();
 		password.sendKeys("demo");
 		
-		driver.findElement(By.xpath("//button[normalize-space()='Login']")).click();
+		//driver.findElement(By.xpath("//button[normalize-space()='Login']")).click();
+		driver.findElement(By.xpath("//button[@type='submit']")).click();
+		
+		 
 		
 				
 		
 		//close window if it is available
-		if(driver.findElement(By.xpath("//button[@class='btn-close']")).isDisplayed())
-		{
-		driver.findElement(By.xpath("//button[@class='btn-close']")).click();
-		}
+//		if(driver.findElement(By.xpath("//button[@class='btn-close']")).isDisplayed())
+//		{
+//		driver.findElement(By.xpath("//button[@class='btn-close']")).click();
+//		}
 		
+		Thread.sleep(5000);
 		
 		driver.findElement(By.xpath("//a[@class='parent collapsed'][normalize-space()='Customers']")).click();  //customers main memu
 		driver.findElement(By.xpath("//ul[@id='collapse-5']//a[contains(text(),'Customers')]")).click(); //customers sub menu

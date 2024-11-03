@@ -1,4 +1,4 @@
-package day32;
+package com.script;
 
 import java.time.Duration;
 
@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class StaticTable {
+public class P_13_StaticTable {
 
 	public static void main(String[] args) {
 	
@@ -36,47 +36,47 @@ public class StaticTable {
 		
 		//4) read data from all the rows and colums
 		
-		/*System.out.println("BookName"+"\t"+"Author"+"\t"+"Subject"+"\t"+"Price");
+		/*System.out.println("BookName"+"\t"+"Author"+"\t"+"Subject"+"\t"+"Price"); */
 		
-		for(int r=2;r<=rows;r++)
-		{
-			for(int c=1;c<=cols;c++)
-			{
-			String value=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td["+c+"]")).getText();
-			System.out.print(value+"\t");
-			}
-			System.out.println();
-		}
+//		for(int r=2;r<=rows;r++)
+//		{
+//			for(int c=1;c<=cols;c++)
+//			{
+//			String value=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td["+c+"]")).getText();
+//			System.out.print(value+"\t");
+//			}
+//			System.out.println();
+//		}
 		
-		*/
+		
 		
 		
 		//5) Print book names whose author is Mukesh
 		
-		/*for(int r=2;r<=rows;r++)
-		{
-			String authorName=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[2]")).getText();
-			
-			if(authorName.equals("Mukesh"))
-			{
-				String bookName=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[1]")).getText();
-				System.out.println(bookName+"\t"+authorName);
-			}
-			
-		}
-		*/
+//		for(int r=2;r<=rows;r++)
+//		{
+//			String authorName=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[2]")).getText();
+//			
+//			if(authorName.equals("Mukesh"))
+//			{
+//				String bookName=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[1]")).getText();
+//				System.out.println(bookName+"\t"+authorName);
+//			}
+//			
+//		}
+		
 		
 		//6) Find total price of all the books
 		
-		int total=0;
-		for(int r=2;r<=rows;r++)
-		{
-			String price=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[4]")).getText();
-			total=total+Integer.parseInt(price);
-			
-		}
-		
-		System.out.println("Total Price of the books:"+total); //7100
+//		int total=0;
+//		for(int r=2;r<=rows;r++)
+//		{
+//			String price=driver.findElement(By.xpath("//table[@name='BookTable']//tr["+r+"]//td[4]")).getText();
+//			total=total+Integer.parseInt(price);
+//			
+//		}
+//		
+//		System.out.println("Total Price of the books:"+total); //7100
 
 	}
 
