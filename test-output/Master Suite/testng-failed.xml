@@ -5,14 +5,8 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="TestChrome(failed)">
-    <parameter name="os" value="Windows"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="Master"/>
-        <include name="Datadriven"/>
-      </run>
-    </groups>
     <classes>
       <class name="testCases.TC002_LoginTest">
         <methods>

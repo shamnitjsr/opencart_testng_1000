@@ -1,4 +1,4 @@
-package day34;
+package com.script;
 
 import java.time.Duration;
 import java.util.List;
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class DatePickerDemo1 {
+public class P_15_DatePickerDemo1 {
 
 	//selecting future date
 	static void selectFutureDate(WebDriver driver,String year,String month,String date)

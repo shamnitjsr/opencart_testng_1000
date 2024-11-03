@@ -1,4 +1,4 @@
-package day38;
+package com.script;
 
 import java.io.File;
 
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class BloackingAds {
+public class P_20_BloackingAds {
 
 public static void main(String[] args) {
 		

@@ -1,4 +1,4 @@
-package day36;
+package com.script;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class OpentheLinkInNewTab {
+public class P_17_OpentheLinkInNewTab {
 
 	public static void main(String[] args) {
 		

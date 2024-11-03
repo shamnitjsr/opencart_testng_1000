@@ -1,4 +1,4 @@
-package day34;
+package com.script;
 
 import java.time.Duration;
 import java.time.Month;
@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-public class DatePickerDemo2 {
+public class P_15_DatePickerDemo2 {
 
 	//user defined method for converting month from string--->Month
     static Month convertMonth(String month) {

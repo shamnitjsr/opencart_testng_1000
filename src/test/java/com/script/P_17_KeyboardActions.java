@@ -1,4 +1,4 @@
-package day36;
+package com.script;
 
 import java.time.Duration;
 
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-public class KeyboardActions {
+public class P_17_KeyboardActions {
 
 	public static void main(String[] args) {
 		

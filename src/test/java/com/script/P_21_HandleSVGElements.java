@@ -1,4 +1,4 @@
-package day39;
+package com.script;
 
 import java.time.Duration;
 
@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class HandleSVGElements {
+public class P_21_HandleSVGElements {
 
 	public static void main(String[] args) {
 		

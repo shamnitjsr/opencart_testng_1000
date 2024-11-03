@@ -1,10 +1,10 @@
-package day38;
+package com.script;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class HandleSSL {
+public class P_20_HandleSSL {
 
 	public static void main(String[] args) {
 		
