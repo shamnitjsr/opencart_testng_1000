@@ -1,11 +1,11 @@
-package day39;
+package com.script;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class ShadowDomElements {
+public class P_21_ShadowDomElements {
 
 	public static void main(String[] args) throws InterruptedException {
 	

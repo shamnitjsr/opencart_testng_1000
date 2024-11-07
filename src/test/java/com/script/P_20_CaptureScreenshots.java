@@ -22,9 +22,9 @@ public class P_20_CaptureScreenshots {
 		
 		//1) full page screenshot
 		TakesScreenshot ts=(TakesScreenshot)driver;
-		File sourcefile=ts.getScreenshotAs(OutputType.FILE);
-		File targetfile=new File(System.getProperty("user.dir")+"\\screenshots\\fullpage.png");
-		sourcefile.renameTo(targetfile); // copy sourcefile to target file
+		//File sourcefile=ts.getScreenshotAs(OutputType.FILE);
+		//File targetfile=new File(System.getProperty("user.dir")+"\\screenshots\\fullpage.png");
+		//sourcefile.renameTo(targetfile); // copy sourcefile to target file
 		
 		
 		//2) capture the screenshot of specific section
