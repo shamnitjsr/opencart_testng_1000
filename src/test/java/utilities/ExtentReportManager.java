@@ -1,12 +1,11 @@
 package utilities;
 
-import java.awt.Desktop;
-import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
+import org.testng.ISuiteListener;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -19,7 +18,7 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import testBase.BaseClass;
 
-public class ExtentReportManager implements ITestListener {
+public class ExtentReportManager implements ITestListener{
 
 	public ExtentSparkReporter sparkReporter;
 	public ExtentReports extent;
@@ -90,18 +89,18 @@ public class ExtentReportManager implements ITestListener {
 
 	}
 
-	public void onFinish(ITestContext testContext) {
-		extent.flush();
-
-		String pathOfExtentReport = System.getProperty("user.dir") + "\\reports\\" + repName;
-		File extentReport = new File(pathOfExtentReport);
-
-		try {
-			Desktop.getDesktop().browse(extentReport.toURI());
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+//	public void onFinish(ITestContext testContext) {
+//		extent.flush();
+//
+//		String pathOfExtentReport = System.getProperty("user.dir") + "\\reports\\" + repName;
+//		File extentReport = new File(pathOfExtentReport);
+//
+//		try {
+//			Desktop.getDesktop().browse(extentReport.toURI());
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//	}
 
 //	  try {
 //		  URL url = new  URL("file:///"+System.getProperty("user.dir")+"\\reports\\"+repName);

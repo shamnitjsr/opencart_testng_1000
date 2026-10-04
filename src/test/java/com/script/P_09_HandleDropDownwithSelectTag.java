@@ -9,13 +9,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 public class P_09_HandleDropDownwithSelectTag {
 
 	public static void main(String[] args) {
 
-		WebDriverManager.chromedriver().setup();
+		//ebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

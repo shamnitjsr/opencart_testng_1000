@@ -35,7 +35,9 @@ public class BaseClass {
 
 	public Properties p;
 
+	
 	@BeforeClass(groups = { "Sanity", "Regression", "Master" })
+	
 	@Parameters({ "os", "browser" })
 	public void setup(String os, String br) throws IOException {
 
